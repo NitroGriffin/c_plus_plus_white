@@ -8,7 +8,7 @@ Quadratic equation*
 
 Minimal string*
 
-Division
+Division*
 
 Calculation price of the product
 
