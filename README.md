@@ -19,3 +19,5 @@ Second occurrence
 The largest common divider
 
 Binary numbers
+
+Factorial*
